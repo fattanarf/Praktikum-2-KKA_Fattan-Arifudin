@@ -1,4 +1,4 @@
-📊Laporan Analisis Data Nilai Siswa
+📊Laporan Analisis Data Nilai Siswa - Fattan Arifudin
 
 🎯Tujuan Analisis
 
@@ -8,11 +8,12 @@ Analisis ini dilakukan untuk memahami:
 2. Nilai tertinggi & terendah
 3. Perbandingan antar mata pelajaran
 4. Pemahaman siswa melalui refleksi
+____________________________________________
 
 📘Kesimpulan dari analisis data nilai:
 
 🔢Jumlah data: 22
-📈Rata-rata: 86.32'
+📈Rata-rata: 86.32
 📉Median: 86.5
 🔁Modus: 85
 🏆Nilai tertinggi: 98
@@ -22,17 +23,17 @@ Analisis ini dilakukan untuk memahami:
 
 ❓Analisis & Jawaban Pertanyaan
 
-1️. Mapel dengan rata-rata tertinggi?
+1. Mapel dengan rata-rata tertinggi?
 Jawaban:
 Mata pelajaran yang tertinggi merupakan Matematika karena mencapai 98
 
-2️. Mapel yang memiliki nilai terendah
+2. Mapel yang memiliki nilai terendah
 Jawaban:
 Nilai terendah ditemukan pada mata pelajaran:
 - Bahasa Indonesia
 - Fisika
 
-3️. Bagaimana visualisasi membantu memahami data?
+3. Bagaimana visualisasi membantu memahami data?
 Jawaban:
 rafik mempermudah melihat pola nilai, membandingkan antar mata pelajaran, serta memahami distribusi nilai tanpa harus membaca tabel panjang.
 
